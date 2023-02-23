@@ -7,7 +7,6 @@ function App() {
   const [start, setStart] = useState(false);
   const [score, setScore] = useState(0);
   const [played, setPlayed] = useState(false);
-  const [playeds, setPlayeds] = useState(false);
   return (
     <>
       <div>
