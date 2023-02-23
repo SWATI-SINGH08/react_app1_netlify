@@ -1,0 +1,51 @@
+body {
+  background-color: rgb(255, 186, 229);
+  display: center;
+  justify-items: center;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  margin-left: 5px;
+}
+
+.main_box2 {
+  width: auto;
+  height: auto;
+  border: 9px solid rgb(255, 255, 255);
+  padding: 10px;
+  margin: 10px;
+  margin-top: 20%;
+  margin-left: 10%;
+  background-color: rgb(198, 147, 240);
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+}
+.quesArea {
+  background-color: white;
+  margin: auto;
+  padding: 0%;
+  border-radius: 5px;
+  height: auto;
+}
+
+li {
+  margin: 8px;
+  margin-left: auto;
+  padding: auto;
+  height: 28px;
+  border: 3px solid white;
+  /* text-align: center; */
+  list-style-type: none;
+}
+li:hover {
+  background-color: #eb84c3;
+}
+/* label {
+  color: black;
+  font-weight: bold;
+  font-style: oblique;
+  font-size: x-large;
+} */
