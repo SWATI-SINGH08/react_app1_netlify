@@ -5,7 +5,7 @@ const Front = ({ setStart }) => {
   return (
     <>
       <div className="main">
-        <h1 className="quiz_heading">RRandom quiZZZ!!!</h1>
+        <h1 className="quiz_heading">RRandom quiZZZzzzzzzz!!!</h1>
         <div className="main_box">
           <label className="label">
             <h2>Difficulty level ⤵️ </h2>
